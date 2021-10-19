@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-<img src='https://media.giphy.com/media/dqYuVLz8XJpWKnouUA/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/eX2uVhCNERuyQ31LgE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://media.giphy.com/media/siRue16DcmVJrbuVI6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -59,6 +59,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/6otvtnpG2oSFakOCQf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/eX2uVhCNERuyQ31LgE/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://media.giphy.com/media/Hjk2Oh4R0hpqNBQJtj/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
