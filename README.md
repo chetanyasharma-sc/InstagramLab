@@ -29,6 +29,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/dqYuVLz8XJpWKnouUA/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://media.giphy.com/media/siRue16DcmVJrbuVI6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 # Parstagram - Part I
 
